@@ -12,7 +12,7 @@ The changelog will provide the most updated information, but currently the game 
 - Blueprint controlled animation system using a built in combat state machine
 - 3D models from the UE4 marketplace, borrowing assets for 2D models as well
 - A timing system currently used in the jumping animations, where the character can only jump based on a 120 BPM timer with a built-in buffer
-- Sample temporary music created by me that is available but not working in the game yet.
+- Sample temporary music created by me that is available but not working in the game yet. It is located in Content/Music
 
 ## TODO in the near future:
 - Enemy spawning with AI logic
